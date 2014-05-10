@@ -1,1 +1,3 @@
 .DS_Store
+NetVlc/obj/*
+NetVlc/bin/*
